@@ -13,6 +13,7 @@ package worldcupapp;
 public class Fixtures extends Teams{
     
     private String[] groups = {"Group A", "Group B", "Group C", "Group D", "Group E", "Group F", "Group G", "Group H"};
+    int x;
     
     public Fixtures(){
          
