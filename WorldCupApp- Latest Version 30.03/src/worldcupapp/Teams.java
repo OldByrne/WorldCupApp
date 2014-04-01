@@ -21,8 +21,7 @@ public class Teams {
     
     public Teams(String[] allTeams){
         this.allTeams=allTeams;
-        //allTeams [] = {"Australia","Iran","Japan","South Korea","Algeria","Cameroon","Ghana","Ivory Coast","Nigeria","Costa Rica","Honduras","Mexico","United States","Argentina","Brazil","Chile","Columbia","Ecuador","Uruguay","Belgium","Bosnia","Croatia","England","France","Germany","Greece","Italy","Netherlands","Portugal","Russia","Spain","Switzerland"};
-    }
+        }
         
     //getters for each array of teams by region
    
